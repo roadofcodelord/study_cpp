@@ -1,0 +1,1 @@
+add_executable(number_of_elements main.cpp)

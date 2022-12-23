@@ -7,3 +7,5 @@ project(study_cpp
 set(CXX_STANDARD            17)
 set(CXX_STANDARD_REQUIRED   ON)
 set(CXX_EXTENSIONS          OFF)
+
+add_subdirectory(vector)
